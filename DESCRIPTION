@@ -3,7 +3,7 @@ Title: Un package qui permet de vérifier la conformité d'un lot de mesure à p
 Version: 0.0.0.9000
 Authors@R: 
     person("NWANSI", "DJIBRIL", , "d3982224@gmail.com", role = c("aut", "cre"))
-Description: Ce package contient quatre fonctions utiles pour l'évaluation du controle qualité industriel, par l'établissement d'un resumé statistique, la comparaison par rapport à une plage de valeur qui nous servent d'indices de référence pour un lot de mesures données.
+Description: Ce package contient six fonctions utiles pour l'évaluation du controle qualité industriel, par l'établissement d'un resumé statistique, la comparaison par rapport à une plage de valeur qui nous servent d'indices de référence pour un lot de mesures données.
 License: `GPL (>= 3)
 Config/roxygen2/version: 8.1.1
 Encoding: UTF-8
